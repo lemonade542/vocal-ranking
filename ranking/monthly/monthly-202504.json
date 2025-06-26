@@ -1,8 +1,10 @@
 {
   "header": {
+    "ranking_id": "10",
     "ranking_category": "monthly",
     "ranking_name": "2025年4月",
-    "ranking_date": "2025-05-01",
+    "ranking_start_date": "2025-04-01",
+    "ranking_end_date": "2025-05-01",
     "ranking_video_bili_id": "BV17CVGzUEGa"
   },
   "data": [
