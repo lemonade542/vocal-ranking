@@ -1,0 +1,52 @@
+{
+  "index": [
+    {
+      "ranking_id": "12",
+      "ranking_category": "weekly",
+      "ranking_name": "2025年第20周",
+      "ranking_start_date": "2025-05-12",
+      "ranking_end_date": "2025-05-19",
+      "ranking_file_name": "weekly-202520"
+    },
+    {
+      "ranking_id": "13",
+      "ranking_category": "weekly",
+      "ranking_name": "2025年第21周",
+      "ranking_start_date": "2025-05-19",
+      "ranking_end_date": "2025-05-26",
+      "ranking_file_name": "weekly-202521"
+    },
+    {
+      "ranking_id": "15",
+      "ranking_category": "weekly",
+      "ranking_name": "2025年第22周",
+      "ranking_start_date": "2025-05-26",
+      "ranking_end_date": "2025-06-02",
+      "ranking_file_name": "weekly-202522"
+    },
+    {
+      "ranking_id": "16",
+      "ranking_category": "weekly",
+      "ranking_name": "2025年第23周",
+      "ranking_start_date": "2025-06-02",
+      "ranking_end_date": "2025-06-09",
+      "ranking_file_name": "weekly-202523"
+    },
+    {
+      "ranking_id": "17",
+      "ranking_category": "weekly",
+      "ranking_name": "2025年第24周",
+      "ranking_start_date": "2025-06-09",
+      "ranking_end_date": "2025-06-16",
+      "ranking_file_name": "weekly-202524"
+    },
+    {
+      "ranking_id": "18",
+      "ranking_category": "weekly",
+      "ranking_name": "2025年第25周",
+      "ranking_start_date": "2025-06-16",
+      "ranking_end_date": "2025-06-23",
+      "ranking_file_name": "weekly-202525"
+    }
+  ]
+}
