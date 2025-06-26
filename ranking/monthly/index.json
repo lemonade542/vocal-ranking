@@ -1,19 +1,28 @@
 {
   "index": [
     {
-      "ranking_date": "2025-04-01",
+      "ranking_id": "9",
       "ranking_category": "monthly",
-      "ranking_name": "2025年3月"
+      "ranking_name": "2025年3月",
+      "ranking_start_date": "2025-03-01",
+      "ranking_end_date": "2025-04-01",
+      "ranking_file_name": "monthly-202503"
     },
     {
-      "ranking_date": "2025-05-01",
+      "ranking_id": "10",
       "ranking_category": "monthly",
-      "ranking_name": "2025年4月"
+      "ranking_name": "2025年4月",
+      "ranking_start_date": "2025-04-01",
+      "ranking_end_date": "2025-05-01",
+      "ranking_file_name": "monthly-202504"
     },
     {
-      "ranking_date": "2025-06-01",
+      "ranking_id": "14",
       "ranking_category": "monthly",
-      "ranking_name": "2025年5月"
+      "ranking_name": "2025年5月",
+      "ranking_start_date": "2025-05-01",
+      "ranking_end_date": "2025-06-01",
+      "ranking_file_name": "monthly-202505"
     }
   ]
 }
