@@ -55,6 +55,14 @@
       "ranking_start_date": "2025-06-23",
       "ranking_end_date": "2025-06-30",
       "ranking_file_name": "weekly-202526"
+    },
+    {
+      "ranking_id": "20",
+      "ranking_category": "weekly",
+      "ranking_name": "2025年第27周",
+      "ranking_start_date": "2025-06-30",
+      "ranking_end_date": "2025-07-07",
+      "ranking_file_name": "weekly-202527"
     }
   ]
 }
