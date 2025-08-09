@@ -31,6 +31,14 @@
       "ranking_start_date": "2025-06-01",
       "ranking_end_date": "2025-07-01",
       "ranking_file_name": "monthly-202506"
+    },
+    {
+      "ranking_id": "25",
+      "ranking_category": "monthly",
+      "ranking_name": "2025年7月",
+      "ranking_start_date": "2025-07-01",
+      "ranking_end_date": "2025-08-01",
+      "ranking_file_name": "monthly-202507"
     }
   ]
 }
